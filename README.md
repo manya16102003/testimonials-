@@ -8,3 +8,10 @@ state management, and component-based architecture. By working with this app, yo
 a React application, manage component state, and handle user input.
 
 Happy coding & Learning
+
+![image](https://github.com/manya16102003/testimonials-/assets/123743851/6280afd0-07d0-4616-8d4e-e30c3a5b3599)
+
+By clicking on Surprise me button a random testimonal will be displayed
+
+![image](https://github.com/manya16102003/testimonials-/assets/123743851/7ab97ec6-69b7-49aa-bab2-12f415ad1606)
+
